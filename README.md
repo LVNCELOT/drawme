@@ -25,10 +25,18 @@ Arch:
 pacman -S imagemagick
 ```
 
-## Installation:
+## Installation
 
 1. Install prerequisites
 2. Clone this repo
 3. Create telegram bot via @botfather
 4. Put the token in "token.txt"
+
+## Run
+```
+python3 bot.py
+```
+
+Have fun!
+
 
