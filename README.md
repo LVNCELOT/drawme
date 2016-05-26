@@ -4,7 +4,7 @@ A Python based Telegram bot that applies hand drawn styles to photos.
 ## Prerequisites:
 ### Python modules:
 ```
- pip install telegram-python-bot && pip install subprocess
+ pip install python-telegram-bot && pip install subprocess
 ```
 ### Imagemagick
 Debian:
