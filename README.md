@@ -1,5 +1,5 @@
 # DrawMe!
-A Python based Telegram Bot that applies hand drawn styles to photos.
+A Python based Telegram bot that applies hand drawn styles to photos.
 
 ## Prerequisites:
 ### Python modules:
