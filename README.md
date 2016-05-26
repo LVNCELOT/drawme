@@ -34,7 +34,7 @@ pacman -S imagemagick
 
 ## Run
 ```
-python3 bot.py
+python bot.py
 ```
 
 Have fun!
