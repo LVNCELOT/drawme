@@ -2,7 +2,7 @@
 A Python based Telegram bot that applies hand drawn styles to photos.
 
 ## Prerequisites:
-### Python modules:
+### Python Telegram Bot
 ```
  pip install python-telegram-bot && pip install subprocess
 ```
