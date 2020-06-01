@@ -17,7 +17,7 @@ token = open('token.txt', 'r').read().replace('\n', '')
 updater = Updater(token=token)
 dispatcher = updater.dispatcher
 
-stateMachine = dict()
+stateMachine = {}
 
 
 def start(bot, update):
